@@ -55,6 +55,7 @@ def fit_vectorizer(train_sentences, standardize_func):
 ### Training
 
 The notebook includes functions to split the dataset into training and validation sets, preprocess the data, and train the model using different hyperparameters.
+The cell for hyperparametring tuning is commented due to its high ressource cost and computation time.
 
 ### Evaluation
 
